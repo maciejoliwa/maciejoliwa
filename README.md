@@ -3,6 +3,7 @@
 ### About Me:
 I've been learning JavaScript since 2016. To this day I've gathered a lot of experience in both Front-End and Back-End development. 
 I mainly use Node.js with TypeScript. I also create simple scripts in Python (I used to create web apps in Python (flask) before).
+I'm currently learning Elm programming language, which compiles to JavaScript, and it makes Front-End programming 10x better!
 
 ### My Stack:
 - JavaScript (ES6+) <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20px"/>
