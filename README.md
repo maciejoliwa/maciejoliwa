@@ -14,7 +14,7 @@ I'm a big fan of functional programming, and Clojure is an excellent language fo
 I fell in love with **C**, it is a great and extremely capable language. It teaches me how to efficently use the memory. I love developing data structures, games and data processing software. My ultimate goal is to write a simple operating system in C.
 
 #### The Rust programming language
-Rust seems like a great programming language, although I may need more time before I get used to it's borrow checker.
+Rust seems like a great programming language, although I may need more time before I get used to its borrow checker.
 
 ### Something about me:
 * I prefer functional programming to object-oriented programming,
